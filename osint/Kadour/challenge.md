@@ -1,6 +1,6 @@
 # Kadour
 
-**`Author:`** [maria kouchkar (@supermario__0)](https://www.linkedin.com/in/maria-kaoutar-kouchkar-721611287/)
+**`Author:`** [maria kouchkar (@supermario__0)](https://github.com/supermariio)
 
 ## Description
 
